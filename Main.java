@@ -9,7 +9,7 @@ public class Main {
         System.out.println("Added new line");
         System.out.println("Added one more line");
 
-        Student student = new Student()
+        Student student = new Student();
         student.sayHello();
 
         System.out.println("Practice jenkins");
